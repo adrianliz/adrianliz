@@ -1,7 +1,8 @@
 # ¡Bienvenid@ :smile:! ![](https://komarev.com/ghpvc/?username=adrianliz&style=plastic)
 
 ✔️ Graduado en Ingeniería Informática por la Universidad de Zaragoza.
-Me apasiona el desarrollo de software de calidad, su escalabilidad y mantenibilidad. Te invito a hacer clic en "ver más" para conocerme mejor.
+
+Me apasiona el desarrollo de software de calidad, su escalabilidad y mantenibilidad.
 
 👨‍🎓 En mi Trabajo de Fin de Grado (calificado con Matrícula de Honor) implementé un gemelo digital para una máquina-herramienta industrial (Industria 4.0) en colaboración tecnológica empresa-universidad.
 
