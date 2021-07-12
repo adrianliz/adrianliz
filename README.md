@@ -1,18 +1,20 @@
-### ¡Bienvenid@ :smile:! ![](https://komarev.com/ghpvc/?username=adrianliz&style=plastic)
+# ¡Bienvenid@ :smile:! ![](https://komarev.com/ghpvc/?username=adrianliz&style=plastic)
 
-Ingeniero Informático por la Universidad de Zaragoza. En la carrera he obtenido 20 matrículas de honor y una media de 9.40.
+✔️ Graduado en Ingeniería Informática por la Universidad de Zaragoza.
+Me apasiona el desarrollo de software de calidad, su escalabilidad y mantenibilidad. Te invito a hacer clic en "ver más" para conocerme mejor.
 
-Además he sido Community Manager durante el curso 2019-2020 en la Escuela Universitaria Politécnica de Teruel.
+👨‍🎓 En mi Trabajo de Fin de Grado (calificado con Matrícula de Honor) implementé un gemelo digital para una máquina-herramienta industrial (Industria 4.0) en colaboración tecnológica empresa-universidad.
 
-En mi TFG tuve la oportunidad de investigar el campo de la Industria 4.0, concretamente las metodologías prácticas de implementación de digital twins para máquinas-herramienta de líneas de fabricación.
+En él tuve la oportunidad de enfrentarme a diversas tecnologías para desarrollar la aplicación back-end y front-end (Angular 11, Spring, MongoDB, OWL, MQTT, Bootstrap, CSS, HTML, etc.).
 
-De esta manera, he desarrollado un digital twin para una máquina-herramienta de corte de vidrio en colaboración tecnológica con una empresa.
+Además, construí una ontología OWL DL que representaba de manera fidedigna el conocimiento de la máquina haciendo uso del IDE Protégé, el framework Apache Jena y el estándar ISO 14649.
 
-Gracias a él se puede hacer un análisis preventivo de la máquina física mediante diferentes analíticas que permiten la toma de decisiones rápidas.
+Fuera de la Universidad he desarrollado por mi cuenta diversos proyectos que me han ayudado a mejorar mis aptitudes tanto personalmente como en equipo.
 
-En él obtuve una clasificación de 10 con matrícula de honor.
+💡 Actualmente, sigo aprendiendo y formándome día a día con muchas ganas de implicarme en los nuevos proyectos que se me pongan por delante.
 
-Por otra parte, me interesan las metodologías ágiles y el desarrollo de software mantenible. Para ello, intento mantenerme actualizado y aprender siempre que puedo a través de proyectos personales.
+🙋‍♂️ Visita mi sitio personal para conocer mis proyectos → adrianliz.github.io
 
+<a href="https://adrianliz.github.io"><img src="https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg?style=for-the-badge" alt="gmail"></a>
 <a href="mailto:adrianlzgi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/adrian-lizaga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
